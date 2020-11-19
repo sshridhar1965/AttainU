@@ -1,0 +1,6 @@
+# Subtraction
+print("The second number will be subtracted from First")
+a=input("Please Enter the first number")
+b=input("Please Enter the second number")
+c=int(a)-int(b)
+print("The difference is = ",c) 

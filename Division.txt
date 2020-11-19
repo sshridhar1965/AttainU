@@ -1,0 +1,6 @@
+# Division
+print("This will divide first number by second") 
+a=input("Please Enter the first number")
+b=input("Please Enter the second number")
+c=int(a)/int(b)
+print("The Result is = ",c) 

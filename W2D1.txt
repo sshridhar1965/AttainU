@@ -1,0 +1,12 @@
+What happens when we enter www.google.com ?
+
+When we enter www.google.com , following things happen -
+
+A request is sent from the browser to DNS ( Domain Name Server ) to fetch the IP address of Google.com.
+DNS maintains a mapping of IP address v/s domain names like Google.com.
+Computer doesn't understand the domain names , it only understands IP addresses.Domain names are only for Human understanding.
+So once the DNS fetches the IP address , the website like Google.com is displayed to the user as this is the site running on that 
+IP address.
+
+IETF ( Internet Engg task force ) is the nodal agency controlling this mapping of Domain names and IP addresses. 
+

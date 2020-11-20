@@ -1,0 +1,24 @@
+Note on the Operators -
+
+Arithmetic Operators -  Addition , Subtraction,Multiplication and Division
+			
+// -> Division returning only Integer part
+
+%  -> Modulus(mode) or remaider Operator  -> Returns the remainder of a division
+
+True/False -> the Boolean operator returning either true or false
+
+== -> Comparison/Equality Operator -> returns true or false depending upon complete equivalance including data type
+
+and , or , not -> Logical gate operators 
+	and -> returns true only if two or more conditions are true
+	or  -> returns true if any one of the conditions is true
+	not -> reverses the true or false condition
+!= not equal to -> true when a value/variable is not equal to each other
+
+Relational operators - these are self explainatory
+
+> Greater than
+< Less than
+>= Greater than or equal to
+<= Less than or equal to   

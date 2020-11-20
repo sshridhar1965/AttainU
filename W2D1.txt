@@ -1,10 +1,12 @@
-1.	git pull  	-  Used to download latest version of any repository from Github to Local
-2.	git push  	-  To upload any repository from Local to remote.
-3.	git merge 	-  to merge any 2 branches into one
-4.	git log   	-  to view a history of all the commits
-5.	git status	-  to get status about staged or unstaged
-6.	git commit	-  to save the changes in local repository to Remote
-7.	git init	-  to declare any local repository to Git , first time
-8.	git clone	-  to make a copy of remote repository to local
-9.	git branch 	-  to make a branch from any commit on the main/master
-10.	git checkout	-  to move to head of any other brach from main/master.
+What happens when we enter www.google.com ?
+
+When we enter www.google.com , following things happen -
+
+A request is sent from the browser to DNS ( Domain Name Server ) to fetch the IP address of Google.com.
+DNS maintains a mapping of IP address v/s domain names like Google.com.
+Computer doesn't understand the domain names , it only understands IP addresses.Domain names are only for Human understanding.
+So once the DNS fetches the IP address , the website like Google.com is displayed to the user as this is the site running on that 
+IP address.
+
+IETF ( Internet Engg task force ) is the nodal agency controlling this mapping of Domain names and IP addresses. 
+
